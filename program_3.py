@@ -15,4 +15,4 @@ def calculate_total_purchase():
 
 
 
-calculate_total_purchase()
+calculate_total_purchase(item1, item2, item3, item4, item5)
