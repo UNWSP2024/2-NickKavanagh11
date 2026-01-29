@@ -1,4 +1,4 @@
-def calculate_total_purchase():
+def calculate_total_purchase(item1, item2, item3, item4, item5):
     item1 = float(input(" 13.76 "))
     item2 = float(input(" 5.00 "))
     item3 = float(input(" 6.79 "))
